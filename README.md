@@ -1,6 +1,7 @@
 # sftbook
-Libro sobre el uso de sft
+ Tamaño de imagenes 651*344
+cambiarles el tamaño con
+https://www.iloveimg.com/
 
-Roles permitidos
-20 SUPER-USUARIO
+
 
